@@ -1,0 +1,12 @@
+0 30,cone,2 15,cone,4 
+30 0.5,flying,2 0.5,flying,5 5,laser,1
+30 0.5,bucket,5 0.5,laser,7 10,cone,3 0.5,cone,7
+30 0.5,normal,1 0.5,normal,2 0.5,normal,8 0.5,bucket,6 0.5,normal,1 0.5,normal,2 0.5,normal,1 5,flying,2 0.5,flyingBucket,3 0.5,laser,5
+30 0.5,flying,3 0.5,flyingBucket,5 0.5,laser,7 0.5,cone,6 0.5,cone,8 0.5,cone,1 0.5,flying,3
+30 0.5,normal,3 0.5,normal,4 0.5,normal,5 0.5,cone,1 0.5,cone,8 0.5,bucket,4 0.5,bucket,5 5,football,1 0.5,football,8
+30 0.5,bucket,1 0.5,bucket,3 0.5,cone,1 0.5,cone,3 0.5,cone,5 0.5,cone,7
+15 0.5,flyingBucket,6 0.5,flyingBucket,8 0.5,football,2
+30 0.5,laser,2 0.5,laser,7 0.5,laser,7 0.5,cone,2 0.5,cone,7
+5 0.5,normal,1 0.5,normal,2 0.5,normal,3 0.5,normal,4 0.5,normal,5 0.5,normal,6 0.5,normal,7 0.5,normal,8 0.5,normal,1 0.5,normal,2 0.5,normal,3 0.5,normal,4 0.5,normal,5 0.5,normal,6 0.5,normal,7 0.5,normal,8 0.5,football,2 0.5,football,4 0.5,football,6 0.5,football,8
+15 0.5,football,1 0.5,football,3 0.5,football,7
+15 5,bucket,1 0.5,bucket,2 0.5,bucket,3 0.5,bucket,4 0.5,bucket,5 0.5,flyingBucket,6 0.5,flyingBucket,7 0.5,flyingBucket,8 0.5,bucket,4 0.5,bucket,5 0.5,flying,3 0.5,flying,6 0.5,flyingBucket,1 0.5,flyingBucket,2 0.5,flyingBucket,7 0.5,flyingBucket,8 0.5,laser,1 0.5,laser,3 0.5,laser,6 0.5,laser,8 0.5,cone,1 0.5,cone,2 0.5,cone,3 0.5,cone,4 0.5,cone,5 0.5,cone,6 0.5,cone,7 0.5,cone,8
